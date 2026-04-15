@@ -7,8 +7,6 @@ on:
       - 'contributors/**'
       - 'submissions/**'
       - 'docs/scores.json'
-  schedule:
-    - cron: '*/10 * * * *'  # Every 10 minutes — catches auto-merged PRs
   workflow_dispatch:
 
 permissions:
