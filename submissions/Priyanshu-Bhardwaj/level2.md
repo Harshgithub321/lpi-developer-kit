@@ -99,7 +99,7 @@ It's like having a team of digital employees working alongside you, not just a s
 
 <h2> Track D <h2>
 
-### A Reality Canvas is a live 3D model of a building. It combines a 3D model with real time sensor data like heat and movement. This gives the AI a 4D foundation to understand the physical world, allowing it to simulate and test facade movements in a virtual environment before actually moving the physical parts.
+### A Reality Canvas is a live 3D model of a building. It combines a 3D model with real time sensor data like heat and movement. This gives the AI a 4D foundation to understand the physical world, allowing it to simulate and test the facade movements in a virtual environment before actually moving the physical parts.
 
 
 
