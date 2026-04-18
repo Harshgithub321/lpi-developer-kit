@@ -63,7 +63,10 @@ I learned that local AI models can be powerful and useful without depending on e
 
 E. What I Did  
 
-I cloned the repository and installed all dependencies using npm install.  
+I cloned the repository from my GitHub account:  
+https://github.com/RahulBijarnia1/lpi-developer-kit  
+
+I installed all dependencies using npm install.  
 I built the project using npm run build.  
 I ran the test client using npm run test-client and verified that all tools passed successfully.  
 I set up a local LLM using Ollama and used it to explore SMILE concepts.  
