@@ -26,24 +26,6 @@ I ran the test client and confirmed that all LPI tools passed successfully:
 
 ---
 
-## LLM Usage
-
-I used TinyLlama via Ollama as a local LLM.
-
-Prompt:
-Explain SMILE methodology in simple terms and how it relates to digital twins.
-
-Response:
-The SMILE methodology is a structured approach used to model real-world systems as digital twins. It includes stages such as sensing data, modeling systems, integrating information, learning patterns, and generating insights.
-
----
-
-## Model Choice
-
-TinyLlama was chosen because it is lightweight, runs locally, and allows quick experimentation without external dependencies.
-
----
-
 ## SMILE Reflection
 
 The SMILE methodology structures systems into phases that help model real-world entities as digital twins. It connects data collection, processing, and insight generation into a unified workflow.
