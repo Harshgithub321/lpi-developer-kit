@@ -30,7 +30,7 @@ Available tools (7):
        # Knowledge Results  40 entries found (showing top 5):  ## Ontology Factories as Foundation for AI Factories  Before dep...
 
 [PASS] get_case_studies({})
-       # Case Studies  10 available:  - **Smart Heating for Municipal Schools — Self-Learning Digital Twins** (Smart Buildings ...
+       # Case Studies  10 available:  - **Smart Heating for Municipal Schools — Self-Learning Digital Twins** Smart Buildings ...
 
 [PASS] get_case_studies({"query":"smart buildings"})
        # Case Study Results  ## Smart Heating for Municipal Schools — Self-Learning Digital Twins  **Industry**: Smart Building...
@@ -101,4 +101,4 @@ concept, and Four Layers of Interoperability.
 
 ## What Surprised Me About SMILE
 
-What surprised me most about the SMILE methodology is its "Impact first, data last" principle — as a CS student, I'm used to thinking data-first, so the idea of starting with the desired outcome and working backwards to determine what data you actually need was an unexpected but logical inversion. I also noticed that the methodology spans from days (Phase 1: Reality Emulation) all the way to decades (Phase 6: Perpetual Wisdom), which is unusual for a tech framework — most methodologies I've learned about focus on short iteration cycles, not generational knowledge transfer. Finally, I found it interesting that SMILE treats ontology factories as the prerequisite for AI factories — the idea that you need structured knowledge representations before AI can reason effectively makes a lot of sense, but it's rarely emphasized in the AI courses I've taken.
+I also noticed that the methodology spans from days (Phase 1: Reality Emulation) all the way to decades (Phase 6: Perpetual Wisdom), which is unusual for a tech framework — most methodologies I've learned about focus on short iteration cycles, not generational knowledge transfer. 
