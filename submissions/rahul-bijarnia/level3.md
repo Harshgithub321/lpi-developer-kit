@@ -30,13 +30,26 @@ The agent takes a user query and processes it by calling multiple LPI tools. Ins
 5. The combined data is sent to a local LLM (Ollama)  
 6. The LLM generates a clear and summarized final answer  
 
-## Explainability (Important Requirement)
-The agent ensures explainability by clearly showing:
-- Output from each LPI tool  
-- How each tool contributes to the final answer  
-- The final response generated using all sources  
+## Explainability (How the Answer is Generated)
 
-This allows users to trace exactly how the answer was formed instead of treating it as a black box.
+The agent ensures explainability by clearly separating outputs from each LPI tool and showing how they contribute to the final answer.
+
+### Step-by-step explanation:
+
+1. **SMILE Overview (smile_overview)**
+   - Provides the conceptual framework and methodology  
+   - Helps understand the structure of the problem  
+
+2. **Knowledge (query_knowledge)**
+   - Provides factual and domain-specific information related to the query  
+
+3. **Case Studies (get_case_studies)**
+   - Provides real-world examples where the concept is applied  
+
+4. **Final Answer Generation**
+   - All the above outputs are combined  
+   - Sent to the LLM (Ollama)  
+   - The LLM generates a final explanation using ALL sources  
 
 ## Example Flow
 Input:
